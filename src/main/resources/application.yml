@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Spring-Mini-Project-Two
+server:
+  port: 8083
